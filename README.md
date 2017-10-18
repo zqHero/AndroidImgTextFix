@@ -211,6 +211,7 @@ private void runUiThr(final Bitmap bitmap, final LevelListDrawable draw) {
 
 
 
+csdn:http://blog.csdn.net/u013233097/article/details/73252865
 
 
 
